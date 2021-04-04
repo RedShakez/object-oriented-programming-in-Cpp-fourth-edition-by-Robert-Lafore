@@ -40,22 +40,22 @@
 12. The ability of a function or operator to act in different ways on different data is called ____
 
 13. A normal C++ operator that acts in special ways on newly defined data types is said to be 
-   - glorified 
-   - encapsulated
-   - classified
-   - overload
+    - glorified 
+    - encapsulated
+    - classified
+    - overload
 
 14. Memorizing the new terms used in C++ is 
-   - critically important
-   - something you can return to later
-   - the key to wealth and success
-   - completely irrelvant 
+    - critically important
+    - something you can return to later
+    - the key to wealth and success
+    - completely irrelvant 
 
 15. The Unified Modeling Language is 
-   - a program that builds physical models
-   - a way to look at the organization of a program 
-   - the combination of C++ and FORTRAN
-   - helpful in developing software systems
+    - a program that builds physical models
+    - a way to look at the organization of a program 
+    - the combination of C++ and FORTRAN
+    - helpful in developing software systems
 
 ## Answer Key
 1. Procedural, Obect-Oriented
